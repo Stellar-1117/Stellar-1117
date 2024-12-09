@@ -54,11 +54,11 @@
 
 </div>
 
-<div align = "center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-dev-master1117&show_icons=true&locale=en&layout=compact" alt="web-dev-master1117" /></p>
+
+<p><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-dev-master1117&show_icons=true&locale=en&layout=compact" alt="web-dev-master1117" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?userna me=web-dev-master1117&show_icons=true&locale=en" alt="web-dev-master1117" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-dev-master1117&" alt="web-dev-master1117" /></p>
-</div>
+
 </p>
