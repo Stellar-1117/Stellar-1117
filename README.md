@@ -32,31 +32,33 @@
 <div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="400" />
 
-### DApps & Online Betting Website
+### E-Commerce & Online Shoping Website
 
   <br />
 
-### Crypto Trading Platforms & Bots
+  ### Fantastic Website and Mobile application design
 
   <br />
 
-### Website and Mobile application
+  ### Video Conference Web & Mobile application
+
+  <br />
+    
+  ### SaaS/CRM/CMS Web & Mobile application
+    
+  <br />
+
+  ### Crypto Trading Platforms & Bots
 
   <br />
 
-### Video Conference Web & Mobile application
+</div>
 
-  <br />
-  
-### SaaS/CRM/CMS/E-Commerce Web & Mobile application
-  
-  <br />
-
-  </div>
+<div align = "center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-dev-master1117&show_icons=true&locale=en&layout=compact" alt="web-dev-master1117" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-dev-master1117&show_icons=true&locale=en" alt="web-dev-master1117" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?userna me=web-dev-master1117&show_icons=true&locale=en" alt="web-dev-master1117" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-dev-master1117&" alt="web-dev-master1117" /></p>
-
+</div>
 </p>
