@@ -1,4 +1,4 @@
-<h1 align="center"> ✨🎉Welcome to to Ryder Sherman</h1>
+<h1 align="center"> ✨🎉Welcome to to Ryder Sherman🎉✨</h1>
 <h3 align="center">A Crazy Full Stack Engineer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-dev-master1117&label=Profile%20views&color=0e75b6&style=flat" alt="web-dev-master1117" /> </p>
@@ -127,6 +127,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
+
+<br/>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="400" />
 
 ### E-Commerce & Online Shoping Website
