@@ -11,13 +11,11 @@
 
 -   🌱 I’m currently learning **AI - Lang Chain & Machine Learning**
 
--   👨‍💻 All of my projects are available at [RS1117_portfolio.io](RS1117_portfolio.io)
+-   👨‍💻 All of my projects are available at [https://app.enhancv.com/share/e9ecfbdc/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](RS1117_portfolio.io)
 
 -   💬 Ask me about **React & Next & React Native! anything I can help you!**
 
 -   📫 How to reach me **remarkable.sr1117@gmail.com**
-
--   📄 Know about my experiences [RS1117_resume.io](RS1117_resume.io)
 
 -   ⚡ Coding is my whole life!!! <<---ADIDAC--->> **💖🔥⚡🎇🧨💎All Day I Dream About Coding💋⚽🍔🍻✈💤**
 
