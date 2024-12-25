@@ -8,11 +8,10 @@
 
 -   🤝 I’m looking for help with **All kind of fantastic projects**
 
--   🌱 I’m currently learning **AI - Lang Chain & Machine Learning**
+-   🌱 I’m FullStack Engineer **specialized in FronEnd development**, am experienced **4years** of **AI - Lang Chain & Machine Learning** and **9years** of **React/Next/Node.js & AWS**
+<!-- -   👨‍💻 All of my projects are available at [RS1117_portfolio.io](https://app.enhancv.com/share/e9ecfbdc/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)-->
 
--   👨‍💻 All of my projects are available at [RS1117_portfolio.io](https://app.enhancv.com/share/e9ecfbdc/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-
--   💬 Ask me about **React & Next & React Native! anything I can help you!**
+-   💬 Ask me about **React/Next & AWS anything I can help you!**
 
 -   📫 How to reach me **remarkable.sr1117@gmail.com**
 
@@ -133,7 +132,7 @@
 
   <br />
 
-  ### Fantastic Website and Mobile application design
+  ### Fantastic Website and Mobile application & dynamic dashboard design
 
   <br />
 
@@ -149,6 +148,13 @@
 
   <br />
 
+  ### AI-powered chatbot using ChatGPT API and LangChain
+
+  <br />
+  
+  ### AWS Services, Cloudfront, SSL Setup
+
+  <br />
 </div>
 
 </p>
