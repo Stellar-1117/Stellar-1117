@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize,ai">
   </a>
 </p>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <ul>
 <li>Database</li>
 </ul>
@@ -66,8 +66,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd"><br><br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux">
   </a>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
