@@ -32,8 +32,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vuejs,angular,redux,html,css,tailwind"><br><br>
-<img src="https://skillicons.dev/icons?i=materialui,bootstrap,sass,jquery,threejs,wordpress">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,jquery,threejs">
   </a>
 </p>
 <ul>
@@ -41,11 +40,10 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,django,spring,flask,fastapi,express"><br><br>
-<img src="https://skillicons.dev/icons?i=prisma,nestjs,sequelize,ai,">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize,ai">
   </a>
 </p>
-<p align="right"><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <ul>
 <li>Database</li>
 </ul>
@@ -59,7 +57,8 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare,vercel,kubernetes">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare"><br><br>
+    <img src="https://skillicons.dev/icons?i=vercel,kubernetes">
   </a>
 </p>
 <ul>
@@ -67,7 +66,8 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd"><br><br>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux">
   </a>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
