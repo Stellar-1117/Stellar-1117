@@ -24,7 +24,7 @@
 </div>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h1 id="-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools:</h1>
-<p align="right"><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong">
+
 </p>
 
 <ul>
@@ -45,6 +45,7 @@
 <img src="https://skillicons.dev/icons?i=prisma,nestjs,sequelize,ai,">
   </a>
 </p>
+<p align="right"><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong">
 <ul>
 <li>Database</li>
 </ul>
@@ -74,11 +75,11 @@
 
 <p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
-<p align="center">💪 9+ Years of Development Experience💪<br>
-⚡️ Expertise in Building Modern, Scalable Applications⚡️<br>
-🏆 Strong Focus on Usability &amp; Performance 🏆 <br>
-🌍 Responsive Designs for All Devices 🌍<br>
-🛠️ Efficient Problem Solver 🛠️<br>
+<p align="center" >💪 9+ Years of Development Experience💪<br><br>
+⚡️ Expertise in Building Modern, Scalable Applications⚡️<br><br>
+🏆 Strong Focus on Usability &amp; Performance 🏆 <br><br>
+🌍 Responsive Designs for All Devices 🌍<br><br>
+🛠️ Efficient Problem Solver 🛠️<br><br>
 🤝 Dedicated to Delivering Quality on Time 🤝</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="center">
