@@ -86,8 +86,10 @@
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="center">
-
-</p><p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Master1117&amp;layout=compact&amp;hide_border=true&amp;theme=darcula&amp;bg_color=00000000&amp;langs_count=6&amp;hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-Dev-Master1117&amp;theme=darcula&amp;hide_border=true&amp;background=FFFFFF00">
+</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Web-Dev-Master1117}/count.svg"></p> 
